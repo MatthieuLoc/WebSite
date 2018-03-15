@@ -1,10 +1,14 @@
-
+.content{
+	height: 100vw;
+	
+}
 
 body {
     background-color: rgb(245,245,245);
     width: 80%;
     margin: auto;
 	font-family: "Times New Roman",Times,serif;
+	
 
 
     /*font-family: "Verdana", Geneva, sans-serif ;*/
@@ -23,6 +27,15 @@ p {
     color: rgb(40,40,40);
 }
 
+img:hover{
+	color: darkmagenta;
+	
+}
+
+footer{
+	position: relative;
+	color: darkcyan;
+}
 video {
 	width: 100%;
 	height: auto;
