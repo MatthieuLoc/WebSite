@@ -1,12 +1,13 @@
 
 
-
-
 body {
     background-color: rgb(245,245,245);
     width: 80%;
     margin: auto;
-    font-family: "acumin-pro", sans-serif;
+	font-family: "Times New Roman",Times,serif;
+
+
+    /*font-family: "Verdana", Geneva, sans-serif ;*/
 }
 
 
